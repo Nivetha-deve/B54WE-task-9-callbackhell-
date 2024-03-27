@@ -1,0 +1,11 @@
+
+ .container{
+    height: 600px;
+    background-image:url("https://t3.ftcdn.net/jpg/02/90/81/46/360_F_290814633_73uOwyE7FsckTA6AoJEvEIDXXG3Ni6Xg.jpg");
+    background-size: cover;
+    color:orangered;
+    font-size:64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
